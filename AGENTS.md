@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- AttendX frontend uses a single responsive dashboard route with semantic Ink & Jade tokens; this keeps the student workflow focused and themable.
